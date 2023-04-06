@@ -1,7 +1,10 @@
 # CodeClause_Fake-News-Detection
 Fake news is false information and hoaxes spread through social media and other online media to achieve a political agenda.
+
 In this project, we have used various machine learning algorithms to classify fake news articles using sci-kit libraries from python.
+
 Data set used:
+
 the data set contains :
 
 column 1: id
